@@ -1,2 +1,2 @@
 # MERN-ExpanseTracker
-Small MERN stack Application
+Keep track of your incomes and expenses
